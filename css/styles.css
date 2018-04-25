@@ -1,4 +1,96 @@
-.T{
-    color: red;
-    text-align: center;
+
+.Link {
+    background-color: tomato;
+    color:firebrick;
+    padding: 10px;
+    border: thick, solid;
+} 
+
+nav {
+    position: fixed;
 }
+
+main {
+    margin-left: 250px;
+}
+
+.H {
+    position: fixed, top;
+    margin-left: 550px;
+}
+
+body { 
+    background: lightblue url("../bilder/Sunnie.jpg") no-repeat fixed center;
+    
+}
+
+.D1 {
+    border: 2px solid grey;
+    border-radius: 12px;
+    margin-left: 270px;
+    
+}
+
+.D2 {
+    border: 2px solid grey;
+    border-radius: 12px;
+    margin-left: 270px;
+    
+}
+
+.D3 {
+    border: 2px solid grey;
+    border-radius: 12px;
+    margin-left: 270px;
+    
+}
+
+.D4 {
+    border: 2px solid grey;
+    border-radius: 12px;
+    margin-left: 270px;
+    
+}
+
+.D5 {
+    border: 2px solid grey;
+    border-radius: 12px;
+    margin-left: 270px;
+    
+}
+
+.D6 {
+    border: 2px solid grey;
+    border-radius: 12px;
+    margin-left: 270px;
+    
+}
+
+.D7 {
+    border: 2px solid grey;
+    border-radius: 12px;
+    margin-left: 270px;
+    
+}
+
+.D8 {
+    border: 2px solid grey;
+    border-radius: 12px;
+    margin-left: 270px;
+    
+}
+
+.D9 {
+    border: 2px solid grey;
+    border-radius: 12px;
+    margin-left: 270px;
+    
+}
+
+.D10 {
+    border: 2px solid grey;
+    border-radius: 12px;
+    margin-left: 270px;
+    
+}
+
