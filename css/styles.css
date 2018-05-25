@@ -10,88 +10,98 @@ nav {
     position: fixed;
 }
 
-main {
-    margin-left: 250px;
+div {
+    margin-left: 100px;
+}
+
+.div > div {
+    margin-bottom: 20px;
 }
 
 .H1 {
     position: fixed, top;
     margin-left: 550px;
-   Color: #e6005c;
+    Color: #e6005c;
+    font-size: 130px;
+    
 }
 
 body { 
     background: lightblue url("../bilder/Walls.jpg") no-repeat fixed center;
+    font-size: 30px;
+    font-family:verdana;
     
 }
 
 .D1 {
     border: 2px solid #4d0026;
     border-radius: 12px;
-    margin-left: 270px;
+    margin-left: 125px;
+    
+    
     
 }
 
 .D2 {
     border: 2px solid #4d0026;
     border-radius: 12px;
-    margin-left: 270px;
+    margin-left: 125px;
     
 }
 
 .D3 {
     border: 2px solid #4d0026;
     border-radius: 12px;
-    margin-left: 270px;
+    margin-left: 125px;
     
 }
 
 .D4 {
     border: 2px solid #4d0026;
     border-radius: 12px;
-    margin-left: 270px;
+    margin-left: 125px;
     
 }
 
 .D5 {
     border: 2px solid #4d0026;
     border-radius: 12px;
-    margin-left: 270px;
+    margin-left: 125px;
     
 }
 
 .D6 {
     border: 2px solid #4d0026;
     border-radius: 12px;
-    margin-left: 270px;
+    margin-left: 125px;
     
 }
 
 .D7 {
     border: 2px solid #4d0026;
     border-radius: 12px;
-    margin-left: 270px;
+    margin-left: 125px;
     
 }
 
 .D8 {
     border: 2px solid #4d0026;
     border-radius: 12px;
-    margin-left: 270px;
+    margin-left: 125px;
     
 }
 
 .D9 {
     border: 2px solid #4d0026;
     border-radius: 12px;
-    margin-left: 270px;
+    margin-left: 125px;
     
 }
 
 .D10 {
     border: 2px solid #4d0026;
     border-radius: 12px;
-    margin-left: 270px;
+    margin-left: 125px;
     
 }
 
@@ -102,4 +112,12 @@ body {
 
 .Blue{
     Color: Blue;
+}
+
+li{
+    margin-bottom: 80px;
+}
+
+main {
+    margin-left:200px;
 }
